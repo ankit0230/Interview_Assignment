@@ -1,4 +1,4 @@
-# The application must print the characters from the files in the opposite order they appear.
+# The application print the characters from the files in the opposite order they appear.
  
 For example, given a file named "file1", containing:
  
